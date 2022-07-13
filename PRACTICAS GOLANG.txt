@@ -1,4 +1,5 @@
 0- hoy es miercoles no tengo como pagar el internet
+0.1 l epdi dinero pretado a mi mamita para pagarlo
 
 1) func multisalida() (int,stribg){
       
