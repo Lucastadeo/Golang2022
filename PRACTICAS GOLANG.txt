@@ -1,4 +1,4 @@
-1) 
+0- hoy es miercoles no tengo como pagar el internet
 
 1) func multisalida() (int,stribg){
       
